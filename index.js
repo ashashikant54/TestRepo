@@ -1,4 +1,4 @@
-// Require the X-Ray SDK (need to install it first)
+// Require the X-Ray SDK (need to install it first)--- Priya Ayyala
 const AWSXRay = require('aws-xray-sdk-core')
 
 // Require the AWS SDK (comes with every Lambda function)
